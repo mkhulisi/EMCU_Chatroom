@@ -1,2 +1,2 @@
 # EMCU_Chatroom
-My Open sourceschool project
+My Open source school project
