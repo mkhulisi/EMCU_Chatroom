@@ -1,0 +1,135 @@
+
+#header_login
+{
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	top: 0px;
+	color: white;
+	left: 0px;
+	background-color: #21284f;
+}
+#heade_reg
+{
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	top: 0px;
+	left: 0px;
+	color: white;
+	background-color: #21284f;
+}
+#login_form
+{
+	position: relative;
+	top: 100px;
+	background-color: #21284F;
+	color: white;
+	width: 85%;
+	height: auto;
+	box-shadow: 0px 0px 3px black;
+	border-bottom-right-radius: 50px;
+	z-index: 3;
+}
+#reg_form
+{
+	position: relative;
+	top: 100px;
+	background-color: #21284F;
+	color: white;
+	width: 85%;
+	height: auto;
+	border-bottom-right-radius: 50px;
+	box-shadow: 0px 0px 5px white;
+	z-index: 3;
+}
+#profile_form_container
+{
+	position: relative;
+	top: -100px;
+	background-color: #21284F;
+	border-radius: 40px;
+	color: white;
+	width: 320px;
+	height: 425px;
+	box-shadow: 0px 0px 5px white;
+	z-index: 3;
+}
+input[type="text"] , input[type="password"]
+{
+	position: relative;
+	margin: 5px;
+	color: black;
+	background-color: #086288;
+	height: 50px;
+	width: 65%;
+	border: none;
+	border-top-left-radius:21px;
+}
+
+input[type="submit"]
+{
+	position: relative;
+	color: white;
+	background-color: transparent;
+	height: 50px;
+	width: 90px;
+	border-radius:21px;
+}
+
+input[value="Back"]
+{
+	position: relative;
+	color: white;
+	background-color: transparent;
+	height: 40px;
+	width: 80px;
+	top: 8px;
+	border-radius:9px;
+	box-shadow: 0px 0px 4px yellow;
+}
+
+input[value="🕊"]
+{
+	position: relative;
+	color: white;
+	font-size: 40px;
+	background-color: transparent;
+	height: 50px;
+	width: 100px;
+	top: -13px;
+	box-shadow: 0px 0px 4px yellow;
+	border-radius:10px;
+}
+
+input[value="Change"]
+{
+	height: 50px;
+	width: 100px;
+	background-color: transparent;
+	border-radius: 5px;
+	color: white;
+}
+
+hr
+{	
+	height: 1px;
+	width: 150px;
+	border-radius: 30px;
+	background-color: gray;
+	box-shadow: 0px 0px 35px blue;
+}
+
+input[value="Login"],input[value="Register"]
+{
+	height: 50px;
+	width: 100px;
+	background-color: #086288;
+	border-radius: 5px;
+	color: white;
+	border: none;
+}
+a
+{
+	color: #086288;
+}
