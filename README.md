@@ -1,2 +1,2 @@
 # EMCU_Chatroom
-My Open source school project
+this is a social networking web sysytem made using php,html,css,ajax,mysqli
